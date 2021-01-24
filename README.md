@@ -1,0 +1,2 @@
+# OldMacDotfiles
+some zsh alias
